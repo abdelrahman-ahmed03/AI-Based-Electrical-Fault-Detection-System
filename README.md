@@ -2,52 +2,57 @@
 
 <div align="center">
 
-### 🚀 AI-Powered Graduation Project for Electrical Fault Detection & Prediction
+### 🎓 Graduation Project
+**Computer Science Department**  
+**Modern Academy for Engineering and Technology**
 
-Built using **React**, **Python**, **Machine Learning**, and **Random Forest**
+---
+
+An AI-powered web application for detecting and predicting electrical faults using Machine Learning.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
 
 ---
 
-## 📖 Project Overview
+# 📖 Project Overview
 
-The **AI-Based Electrical Fault Detection System** is a graduation project designed to improve the monitoring and maintenance of electrical power systems through Artificial Intelligence.
+Electrical faults are one of the major causes of failures in power systems.
 
-The system analyzes electrical measurements, predicts possible faults using Machine Learning, and provides an interactive dashboard for monitoring and visualization.
+This project presents an AI-powered web application that analyzes electrical measurements and predicts possible faults using Machine Learning techniques.
+
+The system provides a modern web interface that enables users to perform intelligent fault prediction quickly and efficiently.
 
 ---
 
 # ✨ Features
 
-- ⚡ Electrical Fault Prediction
-- 🤖 AI-Based Fault Classification
+- ⚡ Electrical Fault Detection
+- 🤖 Machine Learning Prediction
 - 📊 Interactive Dashboard
-- 📈 Real-Time Prediction Results
-- 📂 Prediction History
-- 🧠 Machine Learning Integration
-- 🌐 Modern Responsive User Interface
+- 📈 Prediction History
+- 🌐 Responsive Web Interface
+- 📂 Data Visualization
+- ⚙️ Backend API Integration
 
 ---
 
 # 🧠 Artificial Intelligence Module
 
-The AI module was developed to detect and classify electrical faults using Machine Learning techniques.
+The Artificial Intelligence module includes:
 
-### AI Pipeline
-
-- Data Collection
 - Data Cleaning
 - Data Preprocessing
 - Feature Engineering
 - Feature Scaling
 - Model Training
 - Model Evaluation
-- Fault Prediction
-
-### Machine Learning Model
-
 - Random Forest Classifier
+- Fault Prediction
 
 ---
 
@@ -84,8 +89,8 @@ AI-Based-Electrical-Fault-Detection-System
 │   ├── random_forest_fault_model.pkl
 │   └── data_scaler.pkl
 │
-├── public/
 ├── src/
+├── public/
 │
 ├── package.json
 ├── db.json
@@ -95,11 +100,57 @@ AI-Based-Electrical-Fault-Detection-System
 
 ---
 
+# 📸 Screenshots
+
+> Screenshots will be added soon.
+
+---
+
+# 🚀 Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/abdelrahman-ahmed03/AI-Based-Electrical-Fault-Detection-System.git
+```
+
+Install Frontend Dependencies
+
+```bash
+npm install
+```
+
+Run Frontend
+
+```bash
+npm run dev
+```
+
+Run Backend
+
+```bash
+cd backend
+python main.py
+```
+
+---
+
+# 👥 Team
+
+This graduation project was developed by:
+
+- Abdelrahman Ahmed
+- Basmala Khaled
+- Seif El-Din Hatem
+- Omar Walid
+- Rana Wael
+- Bola Ramy
+
+---
+
 # 👨‍💻 My Contribution
 
-This project was developed by a team of **6 members**.
-
-My primary responsibility was the **Artificial Intelligence Module**, where I contributed to:
+As a member of the Artificial Intelligence team, I contributed to:
 
 - Data preprocessing
 - Feature engineering
@@ -109,50 +160,17 @@ My primary responsibility was the **Artificial Intelligence Module**, where I co
 - Model evaluation
 - AI integration with the backend
 
----
-
-# 🚀 Getting Started
-
-## Clone Repository
-
-```bash
-git clone https://github.com/abdelrahman-ahmed03/AI-Based-Electrical-Fault-Detection-System.git
-```
-
-## Install Frontend
-
-```bash
-npm install
-```
-
-Run the frontend:
-
-```bash
-npm run dev
-```
-
-## Run Backend
-
-```bash
-cd backend
-python main.py
-```
+The AI module was developed collaboratively by three team members.
 
 ---
 
-# 🔮 Future Improvements
+# 🚀 Future Improvements
 
 - Deep Learning Models
-- IoT Device Integration
+- IoT Integration
 - Cloud Deployment
 - Real-Time Monitoring
 - Advanced Analytics Dashboard
-
----
-
-# 👥 Team
-
-Graduation Project developed by a team of **6 members**.
 
 ---
 
@@ -172,6 +190,6 @@ Graduation Project developed by a team of **6 members**.
 
 <div align="center">
 
-⭐ If you like this project, please consider giving it a Star.
+⭐ If you found this project useful, please consider giving it a star.
 
 </div>
